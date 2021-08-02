@@ -1,3 +1,5 @@
+<head>cool</head>
+<body>
 <h1 align="center">Welcome to Carina's Resume</h1>
 <p> </p>
 <p> </p>
@@ -16,3 +18,5 @@
 <ol>-meeting friends</ol>
 <ol>-playing Computergames</ol>
 <ol>-beeing a Captain of an esport team</ol>
+<link>www.google.at</link>
+</body>
