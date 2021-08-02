@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Carina's Resume 
 
 You can use the [editor on GitHub](https://github.com/CarinaMarieWagner/carinawagner.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+<a href="https://www.google.de/"> [https://www.google.de/](url=https://www.google.de/) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
