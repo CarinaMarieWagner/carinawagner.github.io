@@ -1,14 +1,18 @@
 <head><h1 align="center">Welcome to Carina's Resume</h1></head>
 <body>
-<h2> Summary</h2>
+<h2 margin=100px> About me </h2>
 <p>My name is Carina Wagner, I am from Austria and currently 16 years old. I am student of the higher technical chollage in Vienna and I am looking forward to starting my 3rd year soon.</p>
   <h2>Schools</h2>
 <ol>
   <li>Higher technical school in Austria</li>
-  <link>www.htl-donaustadt.at</link>
+  <article>started 2019</article>
+  <p><link>www.htl-donaustadt.at</link></p>
   <li>Gymnasium</li>
-  <link>www.simmonsgasse.at</link>
+  <article>started 2015 finished 2019</article>
+  <p><link>https://www.brg-seestadt.at/</link></p>
   <li>First School in Austria</li>
+  <article>started 2011 finished 2015</article>
+  <p><link>http://www.offene-volksschule-an-der-lobau.at/Startseite/</link></p>
 </ol>
 <h2> Languages</h2>
 <ul>
