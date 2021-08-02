@@ -9,12 +9,18 @@
 <p> <h4>Gymnasium</h4></p>
 <p> <h4>First School in Austria</h4></p>
 <h2> Languages</h2>
-<ul>German</ul>
-<ul>English</ul>
+<ul>
+  <li>German</li>
+<li>English</li>
+</ul>
 <h2>Hobbys</h2>
-<ol>-riding bike</ol>
-<ol>-meeting friends</ol>
-<ol>-playing Computergames</ol>
-<ol>-beeing a Captain of an esport team</ol>
+<ol>
+  <li>riding bike</li>
+  <li>meeting friends</li>
+  <li>playing Computergame</li>
+  <li>beeing a Captain of an esport team</li>
+</ol>
 <link>
 </body>
+<footer> 
+ </footer>
