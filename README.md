@@ -11,8 +11,7 @@
   <p><link="www.htl-donaustadt.at">www.htl-donaustadt.at</link></p>
   <li>Gymnasium</li>
   <article>started 2015 finished 2019</article>
-  <p><link>https://www.brg-seestadt.at/</link></p>
-  <a href="https://www.brg-seestadt.at">dsfserfs</a>
+  <a href="https://www.brg-seestadt.at">https://www.brg-seestadt.at</a>
   <li>First School in Austria</li>
   <article>started 2011 finished 2015</article>
   <p><link>http://www.offene-volksschule-an-der-lobau.at/Startseite/</link></p>
