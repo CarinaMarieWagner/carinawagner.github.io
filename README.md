@@ -1,4 +1,4 @@
-<head><h1 align="center">Welcome to Carina's Resume</h1></head>
+<head><h1 align="center">Carina Wagner's Resume</h1></head>
 <body>
 <h2 margin=100px> About me </h2>
 <p>My name is Carina Wagner, I am from Austria and currently 16 years old. I am student of the higher technical chollage in Vienna and I am looking forward to starting my 3rd year soon.</p>
