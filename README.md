@@ -5,8 +5,8 @@
   <h2>Schools</h2>
 <ol>
   <li>Higher technical school in Austria</li>
-  <li><h4>Gymnasium</h4></li>
-  <li> <h4>First School in Austria</h4></li>
+  <li>Gymnasium</li>
+  <li>First School in Austria</li>
 </ol>
 <h2> Languages</h2>
 <ul>
@@ -20,7 +20,7 @@
   <li>playing Computergame</li>
   <li>beeing a Captain of an esport team</li>
 </ul>
-<link>
+<link>www.htl-donaustadt.at</link>
 </body>
 <footer> 
  </footer>
