@@ -1,6 +1,6 @@
 <head>
   <link rel="carinawagner.github.io/stylesheet"
-      type="text/css" />
+      type="stylesheet" />
    <h1 align="center">Carina Wagner's Resume</h1></head>
 <body>
 <h2 margin=100px> About me </h2>
