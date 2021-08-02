@@ -1,5 +1,4 @@
 <head>
-
 <link href="main.css" rel="stylesheet">
    <h1 align="center">Carina Wagner's Resume</h1></head>
 <body>
