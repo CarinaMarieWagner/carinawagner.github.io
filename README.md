@@ -9,9 +9,10 @@
 <p> <h4>First School in Austria</h4></p>
 <p> Kindergarten</p>
 <h2> Languages</h2>
-<h4>German</h4><h4>English</h4>
+<ul>German</ul>
+<ul>English</ul>
 <h2>Hobbys</h2>
-<h4>-riding bike</h4>
-<h4>-meeting friends</4>
-<h4>-playing Computergames</h4>
-<h4>-beeing a Captain of an esport team</h4>
+<ol>-riding bike</ol>
+<ol>-meeting friends</ol>
+<ol>-playing Computergames</ol>
+<ol>-beeing a Captain of an esport team</ol>
