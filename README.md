@@ -8,7 +8,7 @@
 <ol>
   <li>Higher technical school in Austria</li>
   <article>started 2019</article>
-   <p><a href="www.htl-donaustadt.at">www.htl-donaustadt.at</a></p>
+   <p><a href="https://www.htl-donaustadt.at">www.htl-donaustadt.at</a></p>
   <li>Gymnasium</li>
   <article>started 2015 finished 2019</article>
   <p><a href="https://www.brg-seestadt.at">https://www.brg-seestadt.at</a></p>
