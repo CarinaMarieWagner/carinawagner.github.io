@@ -14,7 +14,7 @@
   <p><a href="https://www.brg-seestadt.at">https://www.brg-seestadt.at</a></p>
   <li>First School in Austria</li>
   <article>started 2011 finished 2015</article>
-  <p><link>http://www.offene-volksschule-an-der-lobau.at/Startseite/</link></p>
+  <p><a href="http://www.offene-volksschule-an-der-lobau.at/Startseite/">http://www.offene-volksschule-an-der-lobau.at/Startseite/</a></p> 
 </ol>
 <h2> Languages</h2>
 <ul>
