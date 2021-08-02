@@ -1,4 +1,10 @@
 h1{
-color=red;
-size=1000px
+color:red;
+size: 1000px;
 }
+ body{
+  background-color:blue;
+  }
+  p{
+  font-family: verdana; 
+  }
