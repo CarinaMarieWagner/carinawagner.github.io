@@ -28,6 +28,7 @@
   <li>playing Computergame</li>
   <li>beeing a Captain of an esport team</li>
 </ul>
+   <p style="color: blue">The <code>style</code> attribute can override it, though.</p>
 </body>
 <footer> 
  </footer>
