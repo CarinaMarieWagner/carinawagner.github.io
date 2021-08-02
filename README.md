@@ -1,8 +1,5 @@
 <head>
-  p {
-  color: yellow;
-  background-color: black
-}
+
   <link rel="carinawagner.github.io/stylesheet"
       type="stylesheet" />
    <h1 align="center">Carina Wagner's Resume</h1></head>
