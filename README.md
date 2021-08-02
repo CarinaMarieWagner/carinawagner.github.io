@@ -8,7 +8,6 @@
 <p> Higher technical school in Austria</p>
 <p> <h4>Gymnasium</h4></p>
 <p> <h4>First School in Austria</h4></p>
-<p> Kindergarten</p>
 <h2> Languages</h2>
 <ul>German</ul>
 <ul>English</ul>
