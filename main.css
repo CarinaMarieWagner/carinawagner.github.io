@@ -5,8 +5,9 @@ size: 1000px;
 }
  body{
   background-color:blue;
+  font-family: verdana; 
   }
   p{
-  color:green;
+  color:grey;
   font-family: verdana; 
   }
