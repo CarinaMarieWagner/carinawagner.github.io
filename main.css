@@ -9,16 +9,20 @@ h1{
 p{
  padding: 30 0 0 0px; 
  color:#3a453a;
+  font-family: verdana; 
 }
 h2{
  color:#006400;
  text-decoration-line:underline;
+  font-family: verdana;
 }
 h4{
  size: 20px;
  padding: 0 10 0 0px;
+  font-family: verdana;
 }
 h3{
  color:#006400;
  text-decoration-line:underline;
+  font-family: verdana; 
 }
