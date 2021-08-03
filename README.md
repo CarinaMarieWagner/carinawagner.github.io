@@ -5,7 +5,7 @@
    <h1 align="center">Webseite</h1>
 </head>
 <body>
-  <h2> About me </h2>
+  <h2> ➢About me </h2>
   <p>My name is Carina Wagner, I am from Austria and I just turned 16 years old. I am a technical chollege studend and looking forward to starting my 3rd year in september. In my freetime I hang out with some friends. I am also the teamcaptain and player for a esports team. Nearly everyday I am trying to improve my software skills. I started doing some projects with a 3d programm called Blender and build a few little webseites. I give my best to get better at these two things. </p> 
   <h3>My Contact informations</h3>
   <article>Carina Wagner</article>
