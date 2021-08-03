@@ -6,13 +6,6 @@
    <h1 align="center">Carina Wagner's Resume</h1>
     </head>
 <body>
-  <h2>Homepage</h2>
-  <div>
-    <p>Welcome to my Homepage.</p>
-  <div>
-    <p>this is my fist time doing such coding. it is interesting.</p>
-    <p> do you want to try? you may enjoy it.</p>
-</body>
 <h2> About me </h2>
 <p>My name is Carina Wagner, I am from Austria and currently 16 years old. I am student of the higher technical chollege in Vienna and I am looking forward to starting my 3rd year soon. In my free time I am a player and a team captain for a little esports team. I also like to go out with friends or cook or bake. I also learned how to use basic blender and do little animations. I am still trying to get better at it too. :) </p> 
   
