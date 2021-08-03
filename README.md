@@ -38,7 +38,7 @@
     <li>basic HTML sills</li>
     <li>basic CSS skills</li>
     <li>basic Blender skills</li>
-  </ul>
+  </ul> 
   <h2> Languages</h2>
 <ul>
   <li>German</li>
