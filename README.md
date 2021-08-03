@@ -14,7 +14,7 @@
   <h1>Resume</h1>
   <h2>Schools</h2>
 <ol>
-  <li>Higher technical school in Austria</li>
+  <li>Higher technical chollege in Austria</li>
   <article>started 2019</article>
    <p><a href="https://www.htl-donaustadt.at">->HTL Donaustadt Webseite</a></p>
   <li>Gymnasium</li>
