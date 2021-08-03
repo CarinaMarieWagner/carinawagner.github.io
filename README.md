@@ -48,6 +48,7 @@
   </ul>
 </body>
 <footer> 
-  <h6>Carina Wagner München on the 03/08/2021</h6>
+  <h6>Carina Wagner </h6>
+  <h6>München on the 03/08/2021</h6>
  </footer>
 </html>
