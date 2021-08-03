@@ -1,5 +1,5 @@
 <head>
-<link rel="stylesheet" type="text/css" href="https://github.com/CarinaMarieWagner/carinawagner.github.io/blob/main/main.css">
+<link rel="stylesheet" type="text/css" href="https://github.com/CarinaMarieWagner/carinawagner.github.io/main.css">
    <link href="carinawagner.github.io/main.css" rel="stylesheet">
    <h1 align="center">Carina Wagner's Resume</h1></head>
 <body>
