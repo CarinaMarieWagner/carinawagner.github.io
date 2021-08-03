@@ -8,11 +8,11 @@
   <ul>
     <li><a href="/">Home</a></li>
     <li><a href="https://github.com/CarinaMarieWagner/carinawagner.github.io/blob/main/README.md#-about-me-">About me </a></li>
-    <li><a href="/impressum">Contact informations </a></li>
-     <li><a href="/impressum">Schools</a></li>
-     <li><a href="/impressum">Skills </a></li>
-     <li><a href="/impressum">Languages </a></li>
-     <li><a href="/impressum">Hobbys </a></li>
+    <li><a href="https://github.com/CarinaMarieWagner/carinawagner.github.io/blob/main/README.md#contact-informations">Contact informations </a></li>
+     <li><a href="https://github.com/CarinaMarieWagner/carinawagner.github.io/blob/main/README.md#schools">Schools</a></li>
+     <li><a href="https://github.com/CarinaMarieWagner/carinawagner.github.io/blob/main/README.md#skills">Skills </a></li>
+     <li><a href="https://github.com/CarinaMarieWagner/carinawagner.github.io/blob/main/README.md#-languages">Languages </a></li>
+     <li><a href="https://github.com/CarinaMarieWagner/carinawagner.github.io/blob/main/README.md#hobbys">Hobbys </a></li>
     
 </ul>
 
