@@ -5,15 +5,6 @@
    <h1 align="center">Webseite</h1>
     </head>
 <body>
-  <ul>
-    <li><a href="/">Home</a></li>
-    <li><a href="https://github.com/carinawagner.github.io/README.md#-about-me-">About me </a></li>
-    <li><a href="https://github.com/carinawagner.github.io/README.md#contact-informations">Contact informations </a></li>
-     <li><a href="https://github.com/CarinaMarieWagner/carinawagner.github.io/README.md#schools">Schools</a></li>
-     <li><a href="https://github.com/CarinaMarieWagner/carinawagner.github.io/README.md#skills">Skills </a></li>
-     <li><a href="https://github.com/CarinaMarieWagner/carinawagner.github.io/README.md#-languages">Languages </a></li>
-     <li><a href="https://github.com/CarinaMarieWagner/carinawagner.github.io/README.md#hobbys">Hobbys </a></li>    
-</ul>
 <h2> About me </h2>
 <p>My name is Carina Wagner, I am from Austria and I just turned 16 years old. I am looking forward to start my 3rd year in a technical chollege in Vienna. I split my free time between hanging out with my friends and beeing teamcaptain and player for a esports team. I also try to improve on my software skills. I started working with Blender and doing some little webseites. But there is still a lot to imporove and getting better with, but when I start something I wont give up easly.</p> 
   <h3>My Contact informations</h3>
