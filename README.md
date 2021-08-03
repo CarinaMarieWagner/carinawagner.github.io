@@ -24,7 +24,13 @@
   <article>started 2011 finished 2015</article>
   <p><a href="http://www.offene-volksschule-an-der-lobau.at/Startseite/">->Esslinger Volkschule Webseite</a></p> 
 </ol>
-<h2> Languages</h2>
+  <h2>Skills</h2>
+  <ul>
+    <li>basic HTML sills</li>
+    <li>basic CSS skills</li>
+    <li>basic Blender skills</li>
+  </ul>
+  <h2> Languages</h2>
 <ul>
   <li>German</li>
   <li>English</li>
