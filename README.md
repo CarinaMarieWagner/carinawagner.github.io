@@ -45,6 +45,9 @@
   <li>working with blender</li>
   <li>listening to music</li>
   <li>reading</li>
+  <li>playing with my sister</li>
+  <li>cooking</li>
+  <li>backing</li>
   </ul>
 </body>
 <footer> 
