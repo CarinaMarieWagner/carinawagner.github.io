@@ -25,7 +25,7 @@
   <h4>Carina Wagner</h4>
   <h4>Kleopferstraße</h4>
   <h4>Vienna,1220</h4>
-  <h1>Resume</h1>
+  <h1  align="center">Resume</h1>
   <h2>Schools</h2>
 <ol>
   <li>Higher technical chollege in Austria</li>
