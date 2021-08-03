@@ -9,13 +9,13 @@
 <ol>
   <li>Higher technical school in Austria</li>
   <article>started 2019</article>
-   <p><a href="https://www.htl-donaustadt.at">www.htl-donaustadt.at</a></p>
+   <p><a href="https://www.htl-donaustadt.at">HTL Webseite</a></p>
   <li>Gymnasium</li>
   <article>started 2015 finished 2019</article>
-  <p><a href="https://www.brg-seestadt.at">https://www.brg-seestadt.at</a></p>
+  <p><a href="https://www.brg-seestadt.at">Gymnasium Webseite</a></p>
   <li>First School in Austria</li>
   <article>started 2011 finished 2015</article>
-  <p><a href="http://www.offene-volksschule-an-der-lobau.at/Startseite/">http://www.offene-volksschule-an-der-lobau.at/Startseite/</a></p> 
+  <p><a href="http://www.offene-volksschule-an-der-lobau.at/Startseite/">First School</a></p> 
 </ol>
 <h2 style="color:#006400"> Languages</h2>
 <ul>
