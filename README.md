@@ -6,7 +6,7 @@
     </head>
 <body>
 <h2> About me </h2>
-<p>My name is Carina Wagner, I am from Austria and currently 16 years old. I am student of the higher technical chollege in Vienna and I am looking forward to starting my 3rd year soon. In my free time I am a player and a team captain for a little esports team. I also like to go out with friends or cook or bake. I also learned how to use basic blender and do little animations. I am still trying to get better at it too. :) </p> 
+<p>My name is Carina Wagner, I am from Austria and I just turned 16 years old. I am student of the higher technical chollege in Vienna and I am looking forward to starting my 3rd year soon. My free time is split beetween hanging out with my friends and beeing teamcaptain and player for a esports team. I also try to improve on my software skills. I started working with Blender and doing some little webseites. But there is still a lot to imporove and getting better with, but i wont give up easly.</p> 
   
   <h2>Schools</h2>
 <ol>
