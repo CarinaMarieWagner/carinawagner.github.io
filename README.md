@@ -43,11 +43,6 @@
   <li>beeing a captain of an esport team</li>
   <li>working with blender</li>
 </ul>
-  <h2>Family</h2>
-  <p>mother</p>
-  <p>father</p>
-  <p>sister</p>
-  <p>dogs</p>
 </body>
 <footer> 
   <h6>Carina Wagner München on the 03/08/2021</h6>
