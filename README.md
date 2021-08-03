@@ -42,7 +42,9 @@
   <li>playing computergame</li>
   <li>beeing a captain of an esport team</li>
   <li>working with blender</li>
-</ul>
+  <li>listening to music</li>
+  <li>reading</li>
+  </ul>
   <h1><><</h1>
 </body>
 <footer> 
