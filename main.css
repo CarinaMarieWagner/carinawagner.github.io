@@ -1,17 +1,22 @@
-
+ body{
+  background-color:blue;
+  font-family: verdana; 
+  }
 h1{
 color:red;
 size: 1000px;
  text-decoration-line: underline;
 }
- body{
-  background-color:blue;
-  font-family: verdana; 
-  }
   p{
-  font-family: verdana; 
+ color:#666699;
   }
 h2{
  color:#006400;
  text-decoration-line:underline;
+}
+ul{
+ 
+}
+ol{
+ 
 }
