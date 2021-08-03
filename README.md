@@ -7,7 +7,7 @@
 <body>
   <ul>
     <li><a href="/">Home</a></li>
-    <li><a href="https://github.com/CarinaMarieWagner/carinawagner.github.io/README.md#-about-me-">About me </a></li>
+    <li><a href="https://github.com/carinawagner.github.io/README.md#-about-me-">About me </a></li>
     <li><a href="https://github.com/CarinaMarieWagner/carinawagner.github.io/README.md#contact-informations">Contact informations </a></li>
      <li><a href="https://github.com/CarinaMarieWagner/carinawagner.github.io/README.md#schools">Schools</a></li>
      <li><a href="https://github.com/CarinaMarieWagner/carinawagner.github.io/README.md#skills">Skills </a></li>
