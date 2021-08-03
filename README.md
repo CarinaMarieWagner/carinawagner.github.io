@@ -4,7 +4,7 @@
 </head>
 <body>
 <h2> About me </h2>
-<p>My name is Carina Wagner, I am from Austria and currently 16 years old. I am student of the higher technical chollage in Vienna and I am looking forward to starting my 3rd year soon.</p>
+<p>My name is Carina Wagner, I am from Austria and currently 16 years old. I am student of the higher technical chollege in Vienna and I am looking forward to starting my 3rd year soon.</p>
   <h2>Schools</h2>
 <ol>
   <li>Higher technical school in Austria</li>
