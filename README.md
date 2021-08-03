@@ -32,7 +32,7 @@
     <li>basic HTML sills</li>
     <li>basic CSS skills</li>
     <li>basic Blender skills</li>
-    <li>a bit Photoshop knowledge</li>
+    <li>little Photoshop knowledge</li>
   </ul> 
   <h2> Languages</h2>
 <ul>
