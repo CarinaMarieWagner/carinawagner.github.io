@@ -29,6 +29,7 @@
   <li>meeting friends</li>
   <li>playing Computergame</li>
   <li>beeing a Captain of an esport team</li>
+  <li>working with blender</li>
 </ul>
 </body>
 <footer> 
