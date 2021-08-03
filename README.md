@@ -27,8 +27,8 @@
 <ul>
   <li>riding bike</li>
   <li>meeting friends</li>
-  <li>playing Computergame</li>
-  <li>beeing a Captain of an esport team</li>
+  <li>playing computergame</li>
+  <li>beeing a captain of an esport team</li>
   <li>working with blender</li>
 </ul>
 </body>
