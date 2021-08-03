@@ -17,13 +17,13 @@
 <ol>
   <li>Higher technical chollege in Austria</li>
   <article>started 2019</article>
-   <p><a href="https://www.htl-donaustadt.at">->HTL Donaustadt Webseite</a></p>
+   <p><a href="https://www.htl-donaustadt.at">→HTL Donaustadt Webseite</a></p>
   <li>Gymnasium</li>
   <article>started 2015 finished 2019</article>
-  <p><a href="https://www.brg-seestadt.at">->Gymnasium Contiweg Webseite</a></p>
+  <p><a href="https://www.brg-seestadt.at">→Gymnasium Contiweg Webseite</a></p>
   <li>First School in Austria</li>
   <article>started 2011 finished 2015</article>
-  <p><a href="http://www.offene-volksschule-an-der-lobau.at/Startseite/">->Esslinger Volkschule Webseite</a></p> 
+  <p><a href="http://www.offene-volksschule-an-der-lobau.at/Startseite/">→Esslinger Volkschule Webseite</a></p> 
 </ol>
   <h2>Skills</h2>
   <ul>
