@@ -12,7 +12,6 @@
    <p><a href="https://www.htl-donaustadt.at">www.htl-donaustadt.at</a></p>
   <li>Gymnasium</li>
   <article>started 2015 finished 2019</article>
-    button type="button" onclick="alert('Hello world!')">Click Me!</button>
   <p><a href="https://www.brg-seestadt.at">https://www.brg-seestadt.at</a></p>
   <li>First School in Austria</li>
   <article>started 2011 finished 2015</article>
