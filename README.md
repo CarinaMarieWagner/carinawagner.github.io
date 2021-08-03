@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <meta charset="UTF-8">
   <link rel="stylesheet" type="text/css" href="main.css">
    <h1 align="center">Carina Wagner's Resume</h1>
-    <meta charset="UTF-8">
-  <title>Tree to HTML</title>
-</head>
+    </head>
 <body>
   <h2>Homepage</h2>
   <div>
