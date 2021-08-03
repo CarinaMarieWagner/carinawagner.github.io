@@ -7,8 +7,13 @@
 <body>
   <ul>
     <li><a href="/">Home</a></li>
-    <li><a href="/impressum">Impressum</a></li>
-  
+    <li><a href="/impressum">About me </a></li>
+    <li><a href="/impressum">Contact informations </a></li>
+     <li><a href="/impressum">Schools</a></li>
+     <li><a href="/impressum">Skills </a></li>
+     <li><a href="/impressum">Languages </a></li>
+     <li><a href="/impressum">Hobbys </a></li>
+    
 </ul>
 
 
