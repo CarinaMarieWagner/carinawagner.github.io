@@ -33,4 +33,7 @@ h3{
 li {
     display: inline;
     list-style-type: none;
+ li:not(:first-child)::before {
+    content: '• ';
+}
 }
