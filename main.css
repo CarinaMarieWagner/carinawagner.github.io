@@ -30,3 +30,7 @@ h3{
  color:#006400;
  text-decoration-line:underline;
 }
+li {
+    display: inline;
+    list-style-type: none;
+}
