@@ -9,6 +9,7 @@
 <p>My name is Carina Wagner, I am from Austria and I just turned 16 years old. I am looking forward to start my 3rd year in a technical chollege in Vienna. I split my free time between hanging out with my friends and beeing teamcaptain and player for a esports team. I also try to improve on my software skills. I started working with Blender and doing some little webseites. But there is still a lot to imporove and getting better with, but when I start something I wont give up easly.</p> 
   <h3>My Contact informations</h3>
   <article>Carina Wagner</article>
+  <p></p>
   <article>Kleopferstraße</article>
   <article>Vienna,1220</article>
   <h1 align="center">Resume</h1>
