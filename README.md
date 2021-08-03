@@ -1,8 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
   <link rel="stylesheet" type="text/css" href="main.css">
    <h1 align="center">Carina Wagner's Resume</h1>
+    <meta charset="UTF-8">
+  <title>Tree to HTML</title>
 </head>
 <body>
+    <h1>hello!!</h1>
+  <div>
+    <p>this is my fist time doing such coding. it is interesting.</p>
+    <p> do you want to try? you may enjoy it.</p>
+</body>
 <h2> About me </h2>
 <p>My name is Carina Wagner, I am from Austria and currently 16 years old. I am student of the higher technical chollege in Vienna and I am looking forward to starting my 3rd year soon.</p>
   <h2>Schools</h2>
@@ -33,3 +42,4 @@
 </body>
 <footer> 
  </footer>
+</html>
