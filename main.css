@@ -1,31 +1,30 @@
- body{
-  font-family: verdana; 
+body{
+ font-family: verdana; 
   }
 h1{
-color: #145214;
-size: 60px;
+ color: #145214;
+ size: 60px;
  text-decoration-line: underline;
    font-family: verdana;
 }
-  p{
-   padding: 30 0 0px; 
-  color:#3a453a;
+p{
+ padding: 30 0 0px; 
+ color:#3a453a;
 }
 h2{
  color:#006400;
  text-decoration-line:underline;
 }
 ul{
-color:#3a453a;
+ color:#3a453a;
  square;
 }
 ol{
-color:#3a453a;
- 
+ color:#3a453a; 
 }
 h4{
  size: 20px;
-padding: 0 10 0 0px;
+ padding: 0 10 0 0px;
 }
 h3{
  color:#006400;
