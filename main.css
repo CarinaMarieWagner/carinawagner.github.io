@@ -1,5 +1,11 @@
 
 h1{
-  size: 600pix;
-  
+color:red;
+size: 1000px;
 }
+ body{
+  background-color:blue;
+  }
+  p{
+  font-family: verdana; 
+  }
