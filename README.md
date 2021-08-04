@@ -30,7 +30,7 @@
   <h2>Technical Skills</h2>
   <ul>
     <li>Word                          ● ● ● ● ○</li>
-    <li>Exel                           ● ● ● ○ ○</li>
+    <li>Exel                          ● ● ● ○ ○</li>
     <li>PowerPoint                    ● ● ● ● ○</li>                
     <li>basic HTML-skills             ● ● ○ ○ ○</li> 
     <li>basic CSS-skills              ● ● ○ ○ ○ </li>
