@@ -15,7 +15,7 @@
   <article>Carina Wagner</article>
   <article>Kleopferstraße</article>
   <article>Vienna,1220</article>
-  <h2>Schools 🏫︁</h2>
+  <h2>Schools</h2>
 <ol>
   <li>Higher technical chollege in Austria</li>
   <article>started 2019</article>
@@ -62,3 +62,4 @@
   <h6>Munich on the 03/08/2021</h6>
  </footer>
 </html>
+<note>//🏫︁</note>
