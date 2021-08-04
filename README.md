@@ -44,9 +44,9 @@
 </ul>
 <h2>Hobbys</h2>
 <ul>
-  <li>>riding bike</li>
-  <li>>meeting friends</li>
-  <li>>playing computergames</li>
+  <li>riding bike</li>
+  <li>meeting friends</li>
+  <li>playing computergames</li>
   <li>beeing a captain and player of an esport team</li>
   <li>working with blender</li>
   <li>listening to music</li>
