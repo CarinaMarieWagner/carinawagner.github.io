@@ -15,7 +15,6 @@
   <article>Carina Wagner</article>
   <article>Kleopferstraße</article>
   <article>Vienna,1220</article>
-  <hr>
   <h2>Schools 🏫︁</h2>
 <ol>
   <li>Higher technical chollege in Austria</li>
@@ -28,7 +27,6 @@
   <article>started 2011 finished 2015</article>
   <p><a href="http://www.offene-volksschule-an-der-lobau.at/Startseite/">→Esslinger Volkschule Webseite</a></p> 
 </ol>
-  <hr>
   <h2>Technical Skills</h2>
   <ul>
     <li>Word                          ● ● ● ● ○</li>
@@ -39,13 +37,11 @@
     <li>basic Blender-skills          ● ● ● ○ ○</li>
     <li>little Photoshop knowledge    ● ○ ○ ○ ○</li>
   </ul>
-  <hr>
   <h2> Languages</h2>
 <ul>
   <li>German  ● ● ● ● ○</li>
   <li>English ● ● ● ○ ○</li>
 </ul>
-  <hr>
 <h2>Hobbys</h2>
 <ul>
   <li>riding bike🚴︁</li>
