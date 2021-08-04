@@ -40,7 +40,7 @@
   <h2> Languages</h2>
 <ul>
   <li>German  ● ● ● ● ○</li>
-  <li>English  ⊘ ⊘ ⊘ ⊘ ⊘</li>
+  <li>English ● ● ○ ○ ○</li>
 </ul>
 <h2>Hobbys</h2>
 <ul>
