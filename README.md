@@ -28,7 +28,7 @@
   <article>started 2011 finished 2015</article>
   <p><a href="http://www.offene-volksschule-an-der-lobau.at/Startseite/">→Esslinger Volkschule Webseite</a></p> 
 </ol>
-  <h2>Skills</h2>
+  <h2>Technical Skills</h2>
   <ul>
     <li>Word</li>
     <li>Exel</li>
