@@ -15,7 +15,7 @@
   <article>Carina Wagner</article>
   <article>Kleopferstraße</article>
   <article>Vienna,1220</article>
-  <h2>Schools</h2>
+  <h2>Schools 🏫︁</h2>
 <ol>
   <li>Higher technical chollege in Austria</li>
   <article>started 2019</article>
