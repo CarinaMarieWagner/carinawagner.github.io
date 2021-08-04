@@ -8,7 +8,7 @@
 </head>
 <body>
   <h2> About me </h2>
- ![alt text](https://github.com/CarinaMarieWagner/carinawagner.github.io/blob/main/%C3%96sterreichflagge.jpgimage.jpg?raw=true)
+ ![alt text](https://github.com/CarinaMarieWagner/carinawagner.github.io/blob/main/%C3%96sterreichflagge.jpg/image.jpg?raw=true)
 
   <img src="Österreichflagge.jpg" alt="Girl in a jacket" with:"212,5" heigh:"141,5" >
   <p>My name is Carina Wagner, I am from Austria and I just turned 16 years old. I am a technical chollege studend and looking forward to starting my 3rd year in september. I am living together with mother Petra, my father Christian, my sister Lisa and my two dogs Brenda and Terry. In my freetime I usually hang out with some friends. I am also teamcaptain and player for an esports team.</p>
