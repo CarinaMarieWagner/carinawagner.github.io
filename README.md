@@ -1,4 +1,4 @@
-![cat-551554_1920](https://user-images.githubusercontent.com/88318382/128139334-cf26b05c-232b-4d33-a5df-e56b40fd8806.jpg)
+
 <html lang="en">
 <html>
   <body style="background-color:blue;">
