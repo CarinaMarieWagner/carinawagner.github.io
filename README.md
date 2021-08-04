@@ -33,8 +33,8 @@
     <li>Word</li>
     <li>Exel</li>
     <li>PowerPoint</li>
-    <li>basic HTML-skills</li>
-    <li>basic CSS-skills</li>
+    <li>basic HTML-skills</li> <h4> ● ● ○ ○ ○</h4>
+    <li>basic CSS-skills </li>
     <li>basic Blender-skills</li>
     <li>little Photoshop knowledge</li>
   </ul> 
