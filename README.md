@@ -6,7 +6,7 @@
    <h1 align="center">Webseite</h1>
 </head>
 <body>
-  <img src="https://raw.githubusercontent.com/CarinaMarieWagner/carinawagner.github.io/main/%C3%96sterreichflagge.jpg" width=212,5; heigth=141,5>
+  <img src="https://raw.githubusercontent.com/CarinaMarieWagner/carinawagner.github.io/main/%C3%96sterreichflagge.jpg" width="212,5" height="141,5">
   <h2> About me</h2> 
   <p>My name is Carina Wagner, I am from Austria 🇦🇹. I am 16 years old and a student of a technical chollege in Vienna. I am living together with mother Petra, my father Christian, my sister Lisa and my two dogs Brenda and Terry. In my freetime I usually hang out with some friends. I am also teamcaptain and player for an esports team.</p>
   <hr>
