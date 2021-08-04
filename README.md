@@ -1,7 +1,6 @@
 
 <html lang="en">
-
-  <body style="background-color:blue;">
+<html>
   <head>
   <meta charset="UTF-8">
   <link rel="stylesheet" type="text/css" href="main.css">
