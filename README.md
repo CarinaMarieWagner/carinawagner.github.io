@@ -14,6 +14,9 @@
  <a src="https://github.com/CarinaMarieWagner/carinawagner.github.io/blob/main/%C3%96sterreichflagge.jpg">
   <img src="https://github.com/CarinaMarieWagner/carinawagner.github.io/blob/main/%C3%96sterreichflagge.jpg" alt="beep">
   <img src="Österreichflagge.jpg" alt="Girl in a jacket" with:"212,5" heigh:"141,5" >
+   
+   
+   
   <p>My name is Carina Wagner, I am from Austria and I just turned 16 years old. I am a technical chollege studend and looking forward to starting my 3rd year in september. I am living together with mother Petra, my father Christian, my sister Lisa and my two dogs Brenda and Terry. In my freetime I usually hang out with some friends. I am also teamcaptain and player for an esports team.</p>
   <p>I am trying really hard to learn something new for my software skills nearly daily. I started doing some small projects in blender. I made a lot of pictures and a handful small animations in this programm already using some characters from a video game. I also started sculpting in blender but there are still some possibilies i haven't found out yet. I also did a few little webseites, but there is also still a lot to improve and getting better with.
   </p>
@@ -50,16 +53,16 @@
 </ul>
 <h2>Hobbys</h2>
 <ul>
-  <li>riding bike</li>
-  <li>meeting friends</li>
-  <li>playing computergames</li>
-  <li>beeing a captain and player of an esport team</li>
-  <li>working with blender</li>
-  <li>listening to music</li>
-  <li>reading</li>
-  <li>playing with my sister</li>
-  <li>cooking</li>
-  <li>backing</li>
+  <li>riding bike🚴︁</li>
+  <li>meeting friends👤︁</li>
+  <li>playing computergames 🎮︁</li>
+  <li>beeing a captain and player of an esport team🏅︁</li>
+  <li>working with blender🎥︁</li>
+  <li>listening to music 🎧︁</li>
+  <li>reading 📖︁</li>
+  <li>playing with my sister🏓︁</li>
+  <li>cooking 🍴︁</li>
+  <li>backing 🥧︁</li>
   </ul>
 </body>
 <footer> 
