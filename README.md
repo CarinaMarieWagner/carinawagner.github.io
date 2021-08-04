@@ -9,7 +9,8 @@
 <body>
   <h2> About me </h2>
   <p>My name is Carina Wagner, I am from Austria and I just turned 16 years old. I am a technical chollege studend and looking forward to starting my 3rd year in september. I am living together with mother Petra, my father Christian, my sister Lisa and my two dogs Brenda and Terry. In my freetime I usually hang out with some friends. I am also teamcaptain and player for an esports team.</p>
-  <p>I am trying to improve my software skills nearly everyday.I started doing some projects with a 3d programm called Blender and build a few little webseites. I am trying my hardest to get better at both. </p>
+  <p>I am trying really hard to iprove my software skills nearly everyday. I started doing some small projects in blender. I made a lot of pictures in this programm already using some characters from a video game. I also started sculpting in blender but there is still a lot to improve on. I also did a few little webseites, but there is also still a lot to improve and getting better with.
+  </p>
   <h3>My Contact informations</h3>
   <article>Carina Wagner</article>
   <article>Kleopferstraße</article>
