@@ -12,8 +12,8 @@
   <p>I am trying really hard to learn something new for my software skills nearly daily. I started doing some small projects in blender. I made a lot of pictures and a handful small animations in this programm already using some characters from a video game. I also started sculpting in blender but there are still some possibilies i haven't found out yet. I also did a few little webseites, but there is also still a lot to improve and getting better with.
   </p>
   <h3 align="center">My Contact informations</h3>
-  <article align="center">Carina Wagner</article>
-  <article align="center">Kleopferstraße</article>
+  <article>Carina Wagner</article>
+  <article>Kleopferstraße</article>
   <article align="center">Vienna,1220</article>
   <h1 align="center">Resume</h1>
   <h2>Schools</h2>
