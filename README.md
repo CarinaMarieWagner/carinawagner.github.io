@@ -29,7 +29,7 @@
 </ol>
   <h2>Technical Skills</h2>
   <ul>
-    <li>Word              ------- --- ● ● ● ● ○</li>
+    <li>Word                          ● ● ● ● ○</li>
     <li>Exel                          ● ● ● ○ ○</li>
     <li>PowerPoint                    ● ● ● ● ○</li>                
     <li>basic HTML-skills             ● ● ○ ○ ○</li> 
