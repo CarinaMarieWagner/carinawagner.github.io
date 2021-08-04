@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <html>
   <body style="background-color:blue;">
