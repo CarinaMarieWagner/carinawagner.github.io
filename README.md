@@ -1,5 +1,6 @@
 <html lang="en">
-<head>
+<html>
+  <head>
   <meta charset="UTF-8">
   <link rel="stylesheet" type="text/css" href="main.css">
    <h1 align="center">Webseite</h1>
