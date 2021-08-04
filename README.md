@@ -9,7 +9,7 @@
   <h2> About me</h2> 
   <p>My name is Carina Wagner, I am from Austria 🇦🇹. I am 16 years old and a student of a technical chollege in Vienna. I am living together with mother Petra, my father Christian, my sister Lisa and my two dogs Brenda and Terry. In my freetime I usually hang out with some friends. I am also teamcaptain and player for an esports team.</p>
   <hr>
-  <p>I am trying really hard to learn something new for my software skills nearly daily. I started doing some small projects in blender. I made a lot of pictures and a handful small animations in this programm already using some characters from a video game. I also started sculpting in blender but there are still some possibilies i haven't found out yet. I also did a few little webseites, but there is also still a lot to improve and getting better with.</p>
+  <p>I am trying really to learn something new for my software skills nearly daily. I started doing some projects in blender. I made a lot of pictures and a handful small animations in this programm already using some characters from a video game. I also started sculpting in blender but there are still a lot left in the programm I have not used yet. I have also done a few little webseites there is also still a lot to improve and getting better with.</p>
   <hr>
   <h2>My Contact informations</h2>
   <article>Carina Wagner</article>
