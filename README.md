@@ -30,13 +30,13 @@
 </ol>
   <h2>Technical Skills</h2>
   <ul>
-    <li>Word</li>
-    <li>Exel</li>
-    <li>PowerPoint</li>
+    <li>Word                          ● ● ● ● ○</li>
+    <li>Exel                           ● ● ● ○ ○</li>
+    <li>PowerPoint                    ● ● ● ● ○</li>                
     <li>basic HTML-skills             ● ● ○ ○ ○</li> 
     <li>basic CSS-skills              ● ● ○ ○ ○ </li>
-    <li>basic Blender-skills</li>
-    <li>little Photoshop knowledge</li>
+    <li>basic Blender-skills          ● ● ○ ○ ○</li>
+    <li>little Photoshop knowledge    ● ○ ○ ○ ○</li>
   </ul> 
   <h2> Languages</h2>
 <ul>
