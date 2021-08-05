@@ -22,8 +22,8 @@
   <p><a href="https://www.htl-donaustadt.at">→HTL Donaustadt Webseite</a></p>
   <br>
   <a href="https://www.htl-donaustadt.at">
-         <img src="https://m.media-amazon.com/images/I/61ZuPlv2e1L._AC_UL320_.jpg"
-         width=150" height="70">
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/HTL_Donaustadt_Logo.svg/1200px-HTL_Donaustadt_Logo.svg.png"
+         width=" height="">
       </a>
                                
   <li>Gymnasium</li>
