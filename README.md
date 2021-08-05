@@ -20,6 +20,7 @@
   <li>Higher technical chollege in Austria</li>
   <article>2019 - Present </article>
    <p><a href="https://www.htl-donaustadt.at">→HTL Donaustadt Webseite</a></p>
+  <button href="https://upload.wikimedia.org/wikipedia/commons/f/f1/HTL_Donaustadt_Logo.svg">
   <li>Gymnasium</li>
   <article>2015 - 2019</article>
   <p><a href="https://www.brg-seestadt.at">→Gymnasium Contiweg Webseite</a></p>
