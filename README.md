@@ -17,7 +17,7 @@
   <article>1220 Vienna</article>
   <article>Austria</article>
   <h2>Schools</h2>
-<ol>
+<ol align="center">
   <li>Higher technical chollege in Vienna</li>
   <article>2019 - Present </article>
   <br>
