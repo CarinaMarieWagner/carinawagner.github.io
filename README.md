@@ -25,14 +25,14 @@
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/HTL_Donaustadt_Logo.svg/1200px-HTL_Donaustadt_Logo.svg.png"
          width="240" height="71,9">
       </a>   
-  <li><h3>Gymnasium in Vienna</h3></li>
+  <li><h4>Gymnasium in Vienna</h4></li>
   <article>2015 - 2019</article>
   <br>
   <a href="https://www.brg-seestadt.at/">
          <img src="https://bildungshub.wien/wp-content/uploads/2020/11/sim_see_logo.png"
          width="75" height="75">
       </a>
-  <li>First School in Vienna</li>
+  <li><h4>First School in Vienna</h4></li>
   <article>2011 - 2015</article>
 <br>
   <a href="http://www.offene-volksschule-an-der-lobau.at/Startseite/">
