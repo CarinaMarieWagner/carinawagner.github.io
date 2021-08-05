@@ -20,6 +20,7 @@
 <ol>
   <li>Higher technical chollege in Vienna</li>
   <article>2019 - Present</article>
+  <p></p>
   <br>
   <a  align="center" href="https://www.htl-donaustadt.at">
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/HTL_Donaustadt_Logo.svg/1200px-HTL_Donaustadt_Logo.svg.png"
