@@ -52,9 +52,9 @@
   <h2> Languages</h2>
 <ul>
   <li align="center">German  </li>
-  <article>native speaker</article>
+  <article align="center">native speaker</article>
   <li align="center">English </li>
-  <article>learned in school</article 
+  <article align="center">learned in school</article 
 </ul>
 <h2>Hobbys</h2>
   <article align="center">riding bike 🚴︁</article>
