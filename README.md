@@ -25,6 +25,7 @@
          <img src="https://m.media-amazon.com/images/I/61ZuPlv2e1L._AC_UL320_.jpg"
          width=150" height="70">
       </a>
+                               
   <li>Gymnasium</li>
   <article>2015 - 2019</article>
   <p><a href="https://www.brg-seestadt.at">→Gymnasium Contiweg Webseite</a></p>
@@ -35,7 +36,7 @@
   <h2>Technical Skills</h2>
   <ul>
     <li align="center">Word                          ● ● ● ● ○</li>
-    <li align="center">Exel                          ● ● ● ○ ○</li>
+    <li align="center">Excel                          ● ● ● ○ ○</li>
     <li align="center">PowerPoint                    ● ● ● ● ○</li>                
     <li align="center">basic HTML-skills             ● ● ○ ○ ○</li> 
     <li align="center">basic CSS-skills              ● ● ○ ○ ○</li>
@@ -58,7 +59,7 @@
   <li align="center">reading 📖︁</li>
   <li align="center">playing with my sister🏓︁</li>
   <li align="center">cooking food🍴︁</li>
-  <li align="center">backing cakes and cookies 🥧︁</li>
+  <li align="center">baking cakes and cookies 🥧︁</li>
   </ul>
 <hr>
  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8fde87e7-9e99-430f-b8cd-b1255d5ac4b2/def2c7y-adfaa43e-3225-4ea9-bf2b-16a8ac805093.png/v1/fill/w_753,h_1062,strp/nea_karlsson___graff_crafter__by_kabalstein_def2c7y-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTgwNSIsInBhdGgiOiJcL2ZcLzhmZGU4N2U3LTllOTktNDMwZi1iOGNkLWIxMjU1ZDVhYzRiMlwvZGVmMmM3eS1hZGZhYTQzZS0zMjI1LTRlYTktYmYyYi0xNmE4YWM4MDUwOTMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.HGngdvhvkoVGlsXG-_ic8-QxRvb0EjpnSxEqlxZrSW8  " alt="Charcter from a Videogame" width="251" height="354"><img src="https://m.media-amazon.com/images/I/61ZuPlv2e1L._AC_UL320_.jpg" width="160" height=" 139" align="center" alt="Pawprint of a bear with the siloette of a little bear in the middle"> 
