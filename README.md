@@ -18,7 +18,7 @@
   <article>Austria</article>
   <h2>Schools</h2>
 <ol>
-  <li><h5>Higher technical chollege in Vienna</h5></li>
+  <li><h4>Higher technical chollege in Vienna</h4></li>
   <article>2019 - Present</article>
   <br>
   <a  align="center" href="https://www.htl-donaustadt.at">
