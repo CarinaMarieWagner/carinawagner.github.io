@@ -7,7 +7,7 @@
 </head>
 <body>
   <h2> About me</h2> 
-  <p align="center">My name is Carina Wagner, I am from Austria. I am 16 years old and a student of a technical chollege in Vienna. I am living together with mother Petra, my father Christian, my little sister Lisa and my two dogs Brenda and Terry. In my freetime I usually hang out with some friends.</p>
+  <p align="center">My name is Carina Wagner, I am from Austria. I am 16 years old and a student of a technical chollege in Vienna. I am living together with my mother Petra, my father Christian, my little sister Lisa and my two dogs Brenda and Terry. In my freetime I usually hang out with some friends.</p>
   <hr>
   <p align="center">I am trying really to learn something new for my software skills nearly daily. I started doing some projects in blender. I made a lot of pictures and a handful small animations in this programm already using some characters from a video game. I also started sculpting in blender but there are still a lot left in the programm I have not used yet. I programmed a few little webseites there is also still a lot to improve and getting better with.</p>
   <hr>
