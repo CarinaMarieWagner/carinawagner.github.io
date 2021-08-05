@@ -20,7 +20,10 @@
   <li>Higher technical chollege in Austria</li>
   <article>2019 - Present </article>
    <p><a href="https://www.htl-donaustadt.at">→HTL Donaustadt Webseite</a></p>
-
+  <a href="https://www.qries.com/">
+         <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
+         width=150" height="70">
+      </a>
   <li>Gymnasium</li>
   <article>2015 - 2019</article>
   <p><a href="https://www.brg-seestadt.at">→Gymnasium Contiweg Webseite</a></p>
