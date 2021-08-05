@@ -51,9 +51,9 @@
   </ul>
   <h2> Languages</h2>
 <ul>
-  <li>German</li>
+  <li>➤ German</li>
   <article>[native speaker]</article>
-  <li>English</li>
+  <li>➤ English</li>
   <article>[learned in school]</article>
 </ul>
 <h2>Hobbys</h2>
