@@ -30,13 +30,13 @@
   <br>
   <a href="https://www.brg-seestadt.at/">
          <img src="https://bildungshub.wien/wp-content/uploads/2020/11/sim_see_logo.png"
-         width="75" height="75" alt:"logo of the brg-seestadt.at webseite">
+         width="75" height="75">
       </a>
   <li>First School in Vienna</li>
   <article>2011 - 2015</article>
 <br>
   <a href="http://www.offene-volksschule-an-der-lobau.at/Startseite/">
-         <img src="https://github.com/CarinaMarieWagner/carinawagner.github.io/blob/main/Download.jpeg?raw=true" alt:"logo of my first school" width="75" height="80">
+         <img src="https://github.com/CarinaMarieWagner/carinawagner.github.io/blob/main/Download.jpeg?raw=true"  width="75" height="80">
       </a>
   </ol>
   <h2>Technical Skills</h2>
