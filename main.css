@@ -47,7 +47,9 @@ article{
 }
 li{
  font-family: verdana;
+ list-style: none;
 }
 ul{
  font-family: verdana;
+ list-style: none;
 }
