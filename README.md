@@ -22,7 +22,7 @@
   <br>
   <a href="https://www.htl-donaustadt.at">
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/HTL_Donaustadt_Logo.svg/1200px-HTL_Donaustadt_Logo.svg.png"
-         width="240" height="71,9" align="center">
+         width="240" height="71,9">
       </a>
                                
   <li>Gymnasium</li>
@@ -55,6 +55,16 @@
   <li align="center">English ● ● ● ○ ○</li>
 </ul>
 <h2>Hobbys</h2>
+  <article align="center">riding bike🚴︁</article>
+  <article align="center">meeting friends👤︁</article>
+  <article align="center">playing computergames 🎮︁</article>
+  <article align="center">beeing a captain and player of an esport team🏅︁</article>
+  <article align="center">working with blender🎥︁</article>
+  <article align="center">listening to music 🎧︁</article>
+  <article align="center">reading 📖︁</article>
+  <article align="center">playing with my sister🏓︁</article>
+  <article align="center">cooking food🍴︁</article>
+  <article align="center">baking cakes and cookies 🥧︁</article>
 <ul>
   <li align="center">riding bike🚴︁</li>
   <li align="center">meeting friends👤︁</li>
