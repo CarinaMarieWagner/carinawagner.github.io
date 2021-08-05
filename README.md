@@ -38,7 +38,7 @@
   <p><a href="http://www.offene-volksschule-an-der-lobau.at/Startseite/">→Esslinger Volkschule Webseite</a></p> 
 <br>
   <a href="http://www.offene-volksschule-an-der-lobau.at/Startseite/">
-         <img src="https://github.com/carinawagner.github.io/Downlad">
+         <img src="https://github.com/CarinaMarieWagner/carinawagner.github.io/main/Download.jpeg">
       </a>
   </ol>
   <h2>Technical Skills</h2>
