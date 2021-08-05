@@ -51,8 +51,10 @@
   </ul>
   <h2> Languages</h2>
 <ul>
-  <li align="center">German  ● ● ● ● ○</li>
-  <li align="center">English ● ● ● ○ ○</li>
+  <li align="center">German  </li>
+  <article>native speaker</article>
+  <li align="center">English </li>
+  <article>learned in school</article 
 </ul>
 <h2>Hobbys</h2>
   <article align="center">riding bike 🚴︁</article>
@@ -74,3 +76,4 @@
   <h6>Munich on the 03/08/2021</h6>
  </footer>
 </html>
+<!--𝔈𝔦𝔫 𝔨𝔩𝔢𝔦𝔫𝔢𝔯 𝔣𝔦𝔰𝔠𝔥 𝔦𝔰𝔱 𝔢𝔦𝔫 𝔣𝔦𝔰𝔠𝔥 <><-->
