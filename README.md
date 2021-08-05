@@ -3,7 +3,7 @@
   <head>
   <meta charset="UTF-8">
   <link rel="stylesheet" type="text/css" href="main.css">
-   <h1 align="center">Webseite </h1>
+   <h1 align="center">Webseite</h1>
 </head>
 <body>
   <h2> About me</h2> 
