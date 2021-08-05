@@ -29,7 +29,7 @@
   <article>2015 - 2019</article>
   <p><a href="https://www.brg-seestadt.at">→Gymnasium Contiweg Webseite</a></p>
   <br>
-  <a href="https://www.htl-donaustadt.at">
+  <a href="https://www.brg-seestadt.at">
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/HTL_Donaustadt_Logo.svg/1200px-HTL_Donaustadt_Logo.svg.png"
          width="240" height="71,9">
       </a>
@@ -38,7 +38,7 @@
   <p><a href="http://www.offene-volksschule-an-der-lobau.at/Startseite/">→Esslinger Volkschule Webseite</a></p> 
 <br>
   <a href="http://www.offene-volksschule-an-der-lobau.at/Startseite/">
-         <img src="https://carinawagner.github.io/main/Download.jpeg">
+         <img src="https://carinawagner.github.io/Download.jpeg">
       </a>
   </ol>
   <h2>Technical Skills</h2>
