@@ -54,7 +54,7 @@
   <li>➤ German</li>
   <article>[native speaker]</article>
   <li>➤ English</li>
-  <article>[learned in school]</article>
+  <article>[lerned english in school for circa 6 years]</article>
 </ul>
 <h2>Hobbys</h2>
   <article align="center">riding bike 🚴︁</article>
