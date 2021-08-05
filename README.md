@@ -27,8 +27,8 @@
                                
   <li>Gymnasium</li>
   <article>2015 - 2019</article>
-  <p><a href="https://www.brg-seestadt.at">→Gymnasium Contiweg Webseite</a></p>
   <br>
+  <a href="https://www.brg-seestadt.at/">
          <img src="https://bildungshub.wien/wp-content/uploads/2020/11/sim_see_logo.png"
          width="75" height="75">
       </a>
