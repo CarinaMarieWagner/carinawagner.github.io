@@ -39,7 +39,7 @@
     <li align="center">PowerPoint                    ● ● ● ● ○</li>                
     <li align="center">basic HTML-skills             ● ● ○ ○ ○</li> 
     <li align="center">standard CSS-skills              ● ● ○ ○ ○</li>
-    <li align="center">fundametal Blender-skills          ● ● ● ○ ○</li>
+    <li align="center">fundametal Blender-skills          ● ● ○ ○ ○</li>
     <li align="center">little Photoshop knowledge    ● ○ ○ ○ ○</li>
   </ul>
   <h2> Languages</h2>
