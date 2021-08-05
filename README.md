@@ -55,7 +55,7 @@
   <li align="center">English ● ● ● ○ ○</li>
 </ul>
 <h2>Hobbys</h2>
-  <article align="center">riding bike🚴︁</article>
+  <article align="center">riding bike 🚴︁</article>
   <article align="center">meeting friends👤︁</article>
   <article align="center">playing computergames 🎮︁</article>
   <article align="center">beeing a captain and player of an esport team🏅︁</article>
