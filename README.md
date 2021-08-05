@@ -23,7 +23,7 @@
   <br>
   <a  align="center" href="https://www.htl-donaustadt.at">
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/HTL_Donaustadt_Logo.svg/1200px-HTL_Donaustadt_Logo.svg.png"
-         width="240" height="71,9" alt:"Logo of the htl-donaustadt webseite">
+         width="240" height="71,9">
       </a>   
   <li>Gymnasium in Vienna</li>
   <article>2015 - 2019</article>
