@@ -30,8 +30,8 @@
   <p><a href="https://www.brg-seestadt.at">→Gymnasium Contiweg Webseite</a></p>
   <br>
   <a href="https://www.brg-seestadt.at">
-         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/HTL_Donaustadt_Logo.svg/1200px-HTL_Donaustadt_Logo.svg.png"
-         width="240" height="71,9">
+         <img src="https://bildungshub.wien/wp-content/uploads/2020/11/sim_see_logo.png"
+         width="" height="">
       </a>
   <li>First School in Austria</li>
   <article>2011 - 2015</article>
