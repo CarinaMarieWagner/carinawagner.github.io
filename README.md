@@ -41,7 +41,7 @@
   </ol>
   <h2>Technical Skills</h2>
   <ul>
-    <li align="center">Word       <article alain="center"> ● ● ● ● ○</article></li>
+    <li align="center">Word       <article alain="right"> ● ● ● ● ○</article></li>
     <li align="center">Excel                          ● ● ● ○ ○</li>
     <li align="center">PowerPoint                    ● ● ● ● ○</li>                
     <li align="center">basic HTML-skills             ● ● ○ ○ ○</li> 
