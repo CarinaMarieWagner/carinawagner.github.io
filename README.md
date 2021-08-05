@@ -66,7 +66,7 @@
   <article align="center">reading 📖︁</article>
   <article align="center">playing with my sister🏓︁</article>
   <article align="center">cooking food🍴︁</article>
-  <article align="center">baking cakes and cookies 🥧︁</article>
+  <article align="center">baking cakes and cookies 🥧︁🍪</article>
 <hr>
  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8fde87e7-9e99-430f-b8cd-b1255d5ac4b2/def2c7y-adfaa43e-3225-4ea9-bf2b-16a8ac805093.png/v1/fill/w_753,h_1062,strp/nea_karlsson___graff_crafter__by_kabalstein_def2c7y-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTgwNSIsInBhdGgiOiJcL2ZcLzhmZGU4N2U3LTllOTktNDMwZi1iOGNkLWIxMjU1ZDVhYzRiMlwvZGVmMmM3eS1hZGZhYTQzZS0zMjI1LTRlYTktYmYyYi0xNmE4YWM4MDUwOTMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.HGngdvhvkoVGlsXG-_ic8-QxRvb0EjpnSxEqlxZrSW8  " alt="Character from a Videogame" width="251" height="354"><img src="https://m.media-amazon.com/images/I/61ZuPlv2e1L._AC_UL320_.jpg" width="160" height=" 139" align="center" alt="Pawprint of a bear with the siloette of a little bear in the middle"> 
   <hr>
