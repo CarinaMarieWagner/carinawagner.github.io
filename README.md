@@ -17,10 +17,10 @@
   <article>1220 Vienna</article>
   <article>Austria</article>
   <h2>Schools</h2>
-<ol align="center">
+<ol>
   <li>Higher technical chollege in Vienna</li>
   <article>2019 - Present </article>
-  <br>
+  <br align="center">
   <a href="https://www.htl-donaustadt.at">
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/HTL_Donaustadt_Logo.svg/1200px-HTL_Donaustadt_Logo.svg.png"
          width="240" height="71,9">
