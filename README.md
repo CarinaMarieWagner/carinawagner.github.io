@@ -22,20 +22,18 @@
   <br>
   <a href="https://www.htl-donaustadt.at">
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/HTL_Donaustadt_Logo.svg/1200px-HTL_Donaustadt_Logo.svg.png"
-         width="240" height="71,9">
+         width="240" height="71,9" align="center">
       </a>
                                
   <li>Gymnasium</li>
   <article>2015 - 2019</article>
   <p><a href="https://www.brg-seestadt.at">→Gymnasium Contiweg Webseite</a></p>
   <br>
-  <a href="https://www.brg-seestadt.at">
          <img src="https://bildungshub.wien/wp-content/uploads/2020/11/sim_see_logo.png"
          width="75" height="75">
       </a>
   <li>First School in Austria</li>
   <article>2011 - 2015</article>
-  <p><a href="http://www.offene-volksschule-an-der-lobau.at/Startseite/">→Esslinger Volkschule Webseite</a></p> 
 <br>
   <a href="http://www.offene-volksschule-an-der-lobau.at/Startseite/">
          <img src="https://github.com/CarinaMarieWagner/carinawagner.github.io/blob/main/Download.jpeg?raw=true" width="75" height="80">
