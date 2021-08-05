@@ -41,13 +41,13 @@
   </ol>
   <h2>Technical Skills</h2>
   <ul>
-    <li align="center">Word       <article alain="right"> ● ● ● ● ○</article></li>
-    <li align="center">Excel                          ● ● ● ○ ○</li>
-    <li align="center">PowerPoint                    ● ● ● ● ○</li>                
-    <li align="center">basic HTML-skills             ● ● ○ ○ ○</li> 
-    <li align="center">standard CSS-skills              ● ● ○ ○ ○</li>
-    <li align="center">fundametal Blender-skills          ● ● ○ ○ ○</li>
-    <li align="center">little Photoshop knowledge         ● ○ ○ ○ ○</li>
+    <li align="center">Word ● ● ● ● ○</li>
+    <li align="center">Excel ● ● ● ○ ○</li>
+    <li align="center">PowerPoint ● ● ● ● ○</li>                
+    <li align="center">basic HTML-skills ● ● ○ ○ ○</li> 
+    <li align="center">standard CSS-skills ● ● ○ ○ ○</li>
+    <li align="center">fundametal Blender-skills ● ● ○ ○ ○</li>
+    <li align="center">little Photoshop knowledge ● ○ ○ ○ ○</li>
   </ul>
   <h2> Languages</h2>
 <ul>
