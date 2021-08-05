@@ -14,7 +14,8 @@
   <h2>My Contact informations</h2>
   <article >Carina Wagner</article>
   <article>Kleopferstraße</article>
-  <article>Vienna,1220</article>
+  <article>1220 Vienna</article>
+  <article>Austria</article>
   <h2>Schools</h2>
 <ol>
   <li>Higher technical chollege in Austria</li>
@@ -23,8 +24,7 @@
   <a href="https://www.htl-donaustadt.at">
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/HTL_Donaustadt_Logo.svg/1200px-HTL_Donaustadt_Logo.svg.png"
          width="240" height="71,9">
-      </a>
-                               
+      </a>                            
   <li>Gymnasium</li>
   <article>2015 - 2019</article>
   <br>
@@ -41,7 +41,7 @@
   </ol>
   <h2>Technical Skills</h2>
   <ul>
-    <li align="center">Word                          ● ● ● ● ○</li>
+    <li align="center">Word       <article alain="center"> ● ● ● ● ○</article></li>
     <li align="center">Excel                          ● ● ● ○ ○</li>
     <li align="center">PowerPoint                    ● ● ● ● ○</li>                
     <li align="center">basic HTML-skills             ● ● ○ ○ ○</li> 
