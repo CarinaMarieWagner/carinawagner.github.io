@@ -19,7 +19,8 @@
 <ol>
   <li>Higher technical chollege in Austria</li>
   <article>2019 - Present </article>
-   <p><a href="https://www.htl-donaustadt.at">→HTL Donaustadt Webseite</a></p>
+  <p><a href="https://www.htl-donaustadt.at">→HTL Donaustadt Webseite</a></p>
+  <br>
   <a href="https://www.qries.com/">
          <img src="https://m.media-amazon.com/images/I/61ZuPlv2e1L._AC_UL320_.jpg"
          width=150" height="70">
