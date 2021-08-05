@@ -18,21 +18,21 @@
   <article>Austria</article>
   <h2>Schools</h2>
 <ol>
-  <li>Higher technical chollege in Austria</li>
+  <li>Higher technical chollege in Vienna</li>
   <article>2019 - Present </article>
   <br>
   <a href="https://www.htl-donaustadt.at">
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/HTL_Donaustadt_Logo.svg/1200px-HTL_Donaustadt_Logo.svg.png"
          width="240" height="71,9">
       </a>                            
-  <li>Gymnasium</li>
+  <li>Gymnasium in Vienna</li>
   <article>2015 - 2019</article>
   <br>
   <a href="https://www.brg-seestadt.at/">
          <img src="https://bildungshub.wien/wp-content/uploads/2020/11/sim_see_logo.png"
          width="75" height="75">
       </a>
-  <li>First School in Austria</li>
+  <li>First School in Vienna</li>
   <article>2011 - 2015</article>
 <br>
   <a href="http://www.offene-volksschule-an-der-lobau.at/Startseite/">
