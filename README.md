@@ -54,7 +54,7 @@
   <li >German  </li>
   <article >native speaker</article>
   <li >English </li>
-  <article >learned in school</article 
+  <article >learned in school</article>
 </ul>
 <h2>Hobbys</h2>
   <article align="center">riding bike 🚴︁</article>
