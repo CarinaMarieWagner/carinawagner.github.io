@@ -46,5 +46,8 @@ article{
   cursor: pointer;
 }
 li{
- align="center"
+ align:"center"
+}
+ul{
+ align:"center"
 }
