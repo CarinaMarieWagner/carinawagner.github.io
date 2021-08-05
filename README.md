@@ -31,7 +31,7 @@
   <br>
   <a href="https://www.brg-seestadt.at">
          <img src="https://bildungshub.wien/wp-content/uploads/2020/11/sim_see_logo.png"
-         width="75" height="52,5">
+         width="52,5" height="75">
       </a>
   <li>First School in Austria</li>
   <article>2011 - 2015</article>
