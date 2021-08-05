@@ -57,7 +57,8 @@
   <li>backing 🥧︁</li>
   </ul>
 
-  <img src="https://raw.githubusercontent.com/CarinaMarieWagner/carinawagner.github.io/main/%C3%96sterreichflagge.jpg"  width="212,5" height="141,5">  <img src="https://www.haustier-news.de/wp-content/uploads/2017/02/Katzenbilder-30-Stueck.jpg" width="163" height="158">  
+  <img src="https://raw.githubusercontent.com/CarinaMarieWagner/carinawagner.github.io/main/%C3%96sterreichflagge.jpg"  width="212,5" height="141,5">  
+ <img src="https://www.haustier-news.de/wp-content/uploads/2017/02/Katzenbilder-30-Stueck.jpg" width="163" height="158">  
   <hr>
 </body>
 <footer> 
