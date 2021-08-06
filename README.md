@@ -11,7 +11,7 @@
   <hr>
   <p align="center">I am trying really to learn something new for my software skills nearly daily. I started doing some projects in blender. I made a lot of pictures and a handful small animations in this programm already using some characters from a video game. I also started sculpting in blender but there are still a lot left in the programm I have not used yet. I programmed a few little webseites there is also still a lot to improve and getting better with.</p>
   <hr>
-  <h2>My Contact informations</h2>
+  <h2>My contact informations</h2>
   <article >Carina Wagner</article>
   <article>Kleopferstraße</article>
   <article>1220 Vienna</article>
@@ -32,14 +32,14 @@
          <img src="https://bildungshub.wien/wp-content/uploads/2020/11/sim_see_logo.png"
          width="75" height="75">
       </a>
-  <li><h4>First School in Vienna</h4></li>
+  <li><h4>First school in Vienna</h4></li>
   <article>2011 - 2015</article>
 <br>
   <a href="http://www.offene-volksschule-an-der-lobau.at/Startseite/">
          <img src="https://github.com/CarinaMarieWagner/carinawagner.github.io/blob/main/Download.jpeg?raw=true"  width="75" height="80">
       </a>
   </ol>
-  <h2>Technical Skills</h2>
+  <h2>Technical skills</h2>
   <ul>
     <li align="center">Word ● ● ● ● ○</li>
     <li align="center">Excel ● ● ● ○ ○</li>
