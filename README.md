@@ -7,7 +7,7 @@
 </head>
 <body>
   <h2>Welcome to my Homepage</h2>
-  <p>My name is Carina Wagner and I am an austrian student. 
+  <p>My name is Carina Wagner and I am an austrian student.</p>
   <h4>You can contact me here:</h4>
   <article >Carina Wagner</article>
   <article>Kleopferstraße</article>
