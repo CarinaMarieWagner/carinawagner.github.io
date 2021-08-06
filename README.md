@@ -72,6 +72,7 @@
   <article align="center">baking cakes and cookies 🥧︁🍪</article>
 <hr>
 <img src="https://media.discordapp.net/attachments/830539932828172319/869345669100474388/connileinposeplatzhalter.png" width="394"  height="221"> 
+  <h3>A work in Progressexcample of my work in blender with a character from a game. 
   <hr>
 </body>
 <footer> 
