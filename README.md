@@ -8,7 +8,7 @@
 <body>
   <h2>Welcome to my Homepage</h2>
   <p>My name is Carina Wagner and I am an austrian student. 
-  <h3>You can contact me here:</h3>
+  <h4>You can contact me here:</h4>
   <article >Carina Wagner</article>
   <article>Kleopferstraße</article>
   <article>1220 Vienna</article>
