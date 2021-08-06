@@ -71,7 +71,7 @@
   <article align="center">cooking food🍴︁</article>
   <article align="center">baking cakes and cookies 🥧︁🍪</article>
 <hr>
-   <img src="https://media.discordapp.net/attachments/750671753784852520/865324488022687754/Versuch5.png" width="394" height="246"><img src="https://media.discordapp.net/attachments/830539932828172319/865326666707107840/Versuch2.png" width="394" height="378"><img src="https://media.discordapp.net/attachments/830539932828172319/869345669100474388/connileinposeplatzhalter.png" width="394"  height="221"> 
+<img src="https://media.discordapp.net/attachments/830539932828172319/869345669100474388/connileinposeplatzhalter.png" width="394"  height="221"> 
   <hr>
 </body>
 <footer> 
